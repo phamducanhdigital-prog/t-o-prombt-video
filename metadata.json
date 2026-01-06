@@ -1,0 +1,7 @@
+{
+  "name": "AdGenius: Chuyên gia Chiến lược Video AI",
+  "description": "Biến tính năng sản phẩm thành quảng cáo video chuyển đổi cao với phân tích sâu Job-to-be-Done (JTBD) và tạo prompt video AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
